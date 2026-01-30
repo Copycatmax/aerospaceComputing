@@ -1,0 +1,15 @@
+Aerospace Computing Data File
+==============================
+
+This file contains sample data for aerospace calculations.
+
+Constants:
+- Earth's gravitational parameter (μ): 3.986004418e14 m³/s²
+- Earth's mean radius: 6,371 km
+- ISS orbital altitude: ~408 km
+- Geostationary orbit altitude: ~35,786 km
+
+Mission Parameters:
+- Launch site: Kennedy Space Center
+- Target orbit: Low Earth Orbit (LEO)
+- Inclination: 51.6° (ISS inclination)
